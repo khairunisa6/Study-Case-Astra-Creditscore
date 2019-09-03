@@ -9,7 +9,7 @@ dan status pembayaran bulan berikutnya (April 2015).
 Memprediksi apakah pelanggan kartu kredit beresiko terlambat bayar pada bulan Mei berdasarkan data
 pada bulan Februari-April 2015 pada data testing.
 
-##Deskripsi Peubah
+## Deskripsi Feature
 
 Terdapat 16 peubah yang terdiri dari ID, 14 prediktor dan 1 target.
 
