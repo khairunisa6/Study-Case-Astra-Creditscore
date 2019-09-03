@@ -14,7 +14,7 @@ pada bulan Februari-April 2015 pada data testing.
 Terdapat 16 peubah yang terdiri dari ID, 14 prediktor dan 1 target.
 
 | Nama Peubah   | Deskripsi                  | Tipe & Satuan   |       Keterangan          |
-| ------------- |:-------------------------: | ---------------:|                           |
+| ------------- |:-------------------------: |:---------------:|--------------------------:|
 | ID            | Nomor urut                 | character       |                           |
 | AGE           | Umur                       | Kontinyu (tahun)|                           |
 | LIMIT_BAL     | Batas maksimal kredit      | Kontinyu (USD)  |                           |
