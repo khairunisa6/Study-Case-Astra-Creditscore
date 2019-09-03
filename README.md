@@ -35,7 +35,7 @@ Terdapat 16 peubah yang terdiri dari ID, 14 prediktor dan 1 target.
 |               |                            |                 | 0: Tidak terlambat        |
 
 Sumber data: UCI Learning Machine Repository “Default of credit card clients data set”.
-Data dimodifikasi untuk keperluan pelatihan.
+Data dimodifikasi untuk keperluan botdcamp.
 
 ## Penilaian mencakup
 - Memahami kasus dan tujuan pemodelan
